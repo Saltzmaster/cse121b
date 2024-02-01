@@ -148,9 +148,9 @@ dt {
     font-weight: 700;
 }
 
-dt::before {
+/* dt::before {
     content: "ðŸ˜ï¸ ";
-}
+} */
 
 dd {
     margin: 0 0 .5rem 2rem;
